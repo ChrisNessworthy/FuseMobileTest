@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Chris/AndroidStudioProjects/Fuse/FuseMobileTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/Chris/AndroidStudioProjects/Fuse/FuseMobileTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_255210f89715bc5b135c60aa7d7f6f5be91e2d5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chris/AndroidStudioProjects/Fuse/FuseMobileTest/app/libs/universal-image-loader-1.9.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/Users/Chris/AndroidStudioProjects/Fuse/FuseMobileTest/app/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.9.3_3118ccb8863733073ddcfc7f4d98650eecf156bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chris/android-sdks/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/Chris/AndroidStudioProjects/FuseMobileTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_b993a12537d40a19fc08f345a331ced5feac43b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chris/AndroidStudioProjects/FuseMobileTest/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0468649608b2af8c7039b922afebb034b142bb85">
+        <dex dex="/Users/Chris/AndroidStudioProjects/FuseMobileTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_13bb04e2dfafdef100a17a97e306a3911011bf20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chris/AndroidStudioProjects/FuseMobileTest/app/libs/universal-image-loader-1.9.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/Users/Chris/AndroidStudioProjects/FuseMobileTest/app/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.9.3_89cc695efdc8edc31c9d9e50444018d8c321f18a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chris/AndroidStudioProjects/FuseMobileTest/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/Chris/AndroidStudioProjects/FuseMobileTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_ef763ecf602db16b37624931bb0c00febdb769f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chris/AndroidStudioProjects/Fuse/FuseMobileTest/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ce78e6b43139f404f00256963c71540edaf1e2e4">
+        <dex dex="/Users/Chris/AndroidStudioProjects/Fuse/FuseMobileTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_773e6673800309f4884303d0b792a69c9928b2ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chris/AndroidStudioProjects/FuseMobileTest/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b667e6606d43c7fe8eee54c9d17d5b9218256295">
+        <dex dex="/Users/Chris/AndroidStudioProjects/FuseMobileTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a54cc8b2f2a1340950cff434de2df77af5206330/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chris/AndroidStudioProjects/Fuse/FuseMobileTest/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="32515569821e37bb7db6a7a6355dcf71a934a35a">
+        <dex dex="/Users/Chris/AndroidStudioProjects/Fuse/FuseMobileTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ea2af43d73d4b7ab03905f48988cdfb4a66bdf92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chris/AndroidStudioProjects/Fuse/FuseMobileTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/Chris/AndroidStudioProjects/Fuse/FuseMobileTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_2d3c6595be0dd8c06125f762688d4383eacd6d19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chris/AndroidStudioProjects/Fuse/FuseMobileTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/Chris/AndroidStudioProjects/Fuse/FuseMobileTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_b9a5bdc23a6ddfb8139fb49d9ad39bd3001259d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chris/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/Users/Chris/AndroidStudioProjects/FuseMobileTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-1.0.19_cb6faee3244e1fb0e8ebc5b30a18dd8685e99255/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chris/AndroidStudioProjects/Fuse/FuseMobileTest/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/Chris/AndroidStudioProjects/Fuse/FuseMobileTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_f4a9a111f5bd1acadd9e792360efe9a839a47c51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chris/AndroidStudioProjects/Fuse/FuseMobileTest/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/Chris/AndroidStudioProjects/Fuse/FuseMobileTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_d1b905459815a253f74089fcd87e471552d1890a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chris/AndroidStudioProjects/FuseMobileTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/Chris/AndroidStudioProjects/FuseMobileTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_d7e42253d1ebc782b1e7311679692b2d0d6a4ff4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chris/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/Users/Chris/AndroidStudioProjects/FuseMobileTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.4_63dda5cb224f7e83871667667ae0443b960219f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chris/AndroidStudioProjects/FuseMobileTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/Chris/AndroidStudioProjects/FuseMobileTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_2b5165bb4a7803811b321019436e364d90a7e8f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chris/AndroidStudioProjects/FuseMobileTest/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/Chris/AndroidStudioProjects/FuseMobileTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_4310b9143d74d03aa4665114214d31192a39e4aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chris/AndroidStudioProjects/FuseMobileTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/Chris/AndroidStudioProjects/FuseMobileTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_aebf658a682840010676d5918091598e33c5b373/classes.dex" />
+    </item>
+
+</items>
